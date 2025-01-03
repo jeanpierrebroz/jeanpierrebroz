@@ -1,5 +1,5 @@
 ## Hi, I'm JP!
-I'm working on Crescendo, which aims to improve the listening insights currently available on Spotify. Initial launch coming in early January 2025! I'm currently learning more about fullstack web development, as most of my work experience has been with machine learning (modeling and deployment) and backend development.
+I'm working on Crescendo, which aims to improve the listening insights currently available on Spotify. Initial launch coming in early January 2025! I'm currently learning more about fullstack web development, as most of my work experience has been with machine learning (modeling and deployment) and backend development. When I'm not learning more about ML or debugging APIs (rare), I like to get outside as well as lift. 
 
 <!--
 **jeanpierrebroz/jeanpierrebroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
