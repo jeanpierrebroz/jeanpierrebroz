@@ -1,5 +1,5 @@
 ## Hi, I'm JP!
-I'm currently learning more about fullstack web development, as most of my work experience has been with machine learning (modeling and deployment) and backend development. When I'm not learning more about ML or debugging APIs (rare), I like to get outside as well as lift. 
+I'm a fullstack software development intern at Tyler Technologies and am currently learning more about natural language processing.
 
 <!--
 **jeanpierrebroz/jeanpierrebroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
