@@ -1,5 +1,5 @@
 ## Hi, I'm JP!
-I'm a fullstack software development intern at Tyler Technologies and am currently learning more about natural language processing.
+I'm a full-stack Software Developer at Tyler Technologies and am currently learning more about natural language processing.
 
 <!--
 **jeanpierrebroz/jeanpierrebroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
