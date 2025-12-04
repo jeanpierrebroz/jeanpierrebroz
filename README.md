@@ -1,5 +1,5 @@
 ## Hi, I'm JP!
-I'm a full-stack Software Developer at Tyler Technologies. Current interests include learning more about Angular and NLP (specifically information retrieval).
+I'm a full-stack Software Developer at Tyler Technologies that focuses on building useful, efficient features. 
 <!--
 **jeanpierrebroz/jeanpierrebroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
