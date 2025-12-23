@@ -1,5 +1,5 @@
 ## Hi, I'm JP!
-I'm a full-stack Software Developer at Tyler Technologies that focuses on building useful, efficient features. 
+I'm a full-stack Software Developer at Tyler Technologies. I love building performant, scalable applications! 
 <!--
 **jeanpierrebroz/jeanpierrebroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
