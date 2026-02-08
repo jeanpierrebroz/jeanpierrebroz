@@ -1,7 +1,7 @@
 ## Hi, I'm JP!
 I'm a full-stack Software Developer at Tyler Technologies. I love building performance-critical, scalable applications! 
 
-Currently learning Rust + Go and reading "Designing Data-Intensive Applications" by Martin Kleppmann.
+Currently learning Rust and reading "Designing Data-Intensive Applications" by Martin Kleppmann.
 <!--
 **jeanpierrebroz/jeanpierrebroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
