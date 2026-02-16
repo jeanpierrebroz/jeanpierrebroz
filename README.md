@@ -1,7 +1,7 @@
 ## Hi, I'm JP!
-I'm a full-stack Software Developer at Tyler Technologies. I love building performance-critical, scalable applications! 
+I'm a backend software developer interested in databases and distributed systems.
 
-Currently learning Rust and reading "Designing Data-Intensive Applications" by Martin Kleppmann.
+I'm currently learning Rust and reading "Designing Data-Intensive Applications" by Martin Kleppmann.
 <!--
 **jeanpierrebroz/jeanpierrebroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
