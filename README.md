@@ -1,5 +1,5 @@
 ## Hi, I'm JP!
-I'm a backend software developer interested in databases and distributed systems.
+I'm a backend engineer interested in databases and distributed systems.
 
 I'm currently learning Rust and reading "Designing Data-Intensive Applications" by Martin Kleppmann.
 <!--
